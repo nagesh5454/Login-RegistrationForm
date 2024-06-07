@@ -9,8 +9,8 @@ Technologies Used:
 
 
 <hr>
-**For cloning** 
-```
+For cloning
+```js
  git clone  https://github.com/nagesh5454/Login-RegistrationForm
 ```
 
