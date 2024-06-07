@@ -10,11 +10,26 @@ Technologies Used:
 
 <hr>
 
-<h2>to start server</h2>
-<h4>cd server</h1>
-<h4>npm start</h4>
-<hr>
-<h2>to start client</h2>
-<h4>cd client </h4>
-<h4>npm run dev</h4>
+for client directory Run this command :
+```
+ cd client
+```
+```js
+ npm i
+```
+```js
+ npm run dev
+```
+
+
+for server directory Run this command :
+```
+ cd server
+```
+```js
+ npm i
+```
+```js
+ npm start
+```
 
