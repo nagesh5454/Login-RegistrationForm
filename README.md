@@ -15,6 +15,6 @@ Technologies Used:
 <h4>npm start</h4>
 <hr>
 <h2>to start client</h2>
-<h1>cd client </h1>
+<h4>cd client </h4>
 <h4>npm run dev</h4>
 
