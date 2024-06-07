@@ -9,6 +9,11 @@ Technologies Used:
 
 
 <hr>
+**For cloning** 
+```
+ git clone  https://github.com/nagesh5454/Login-RegistrationForm
+```
+
 
 for client directory Run this command :
 ```
