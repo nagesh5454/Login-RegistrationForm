@@ -33,6 +33,9 @@ for client directory Run this command :
 
 
 for server directory Run this command :
+<br>
+<h5>First add your MongoDB URL </h5>
+<br>
 ```
  cd server
 ```
