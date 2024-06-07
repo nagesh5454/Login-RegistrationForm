@@ -31,11 +31,11 @@ for client directory Run this command :
  npm run dev
 ```
 
-
-for server directory Run this command :
 <br>
 <h5>First add your MongoDB URL </h5>
 <br>
+for server directory Run this command :
+
 ```
  cd server
 ```
